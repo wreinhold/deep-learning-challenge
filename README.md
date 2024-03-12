@@ -17,6 +17,6 @@ This repository was created for an assignment in the UNC Chapel Hill Data Scienc
   * The closest attempt towards target model performance was when I increased the epochs to 150, from 100 with the other attempts.
   * I was ultimately was unable to reach the target model performance. 
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+## Summary: 
 
 While the overall results of the deep learning model were unsuccessful, I believe that with more attempts the problem could be solved. After some more reflection, I believe some fields around the Organizations Classification could be reduced as they are likely more redundant. Furthermore, it would be beneficial to use a tool like KerasTuner to determine the best activation function. Increasing the epochs further could also help in the next iteration of the deep learning model.
